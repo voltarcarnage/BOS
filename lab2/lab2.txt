@@ -2,7 +2,7 @@
 .:
 total 4
 drw-rwxr-x. 2 fake_user fake_user 22 Oct 15 13:55 dir
--rw-r-----. 1 root      fake_user  5 Oct 15 13:53 file
+-r--r-----. 1 root      fake_user  5 Oct 15 13:53 file
 -rw-------. 1 fake_user fake_user  0 Oct 15 14:04 file1
 -rw-rw-rw-. 1 fake_user fake_user  0 Oct 15 14:05 file2
 
